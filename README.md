@@ -195,3 +195,5 @@ function sortOther(val) {
 
 console.log(parse(res));
 ```
+
+![结果](WechatIMG2.png)
