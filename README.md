@@ -80,7 +80,7 @@ name: '机场大巴线'
 
 
 以下是源码：
-`
+``` JavaScript
 const res = {
     code: 0,
     data: {
@@ -194,4 +194,4 @@ function sortOther(val) {
 }
 
 console.log(parse(res));
-`
+```
